@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="017c25e9-3e60-4df4-a5da-5c52d92efa5e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3_Monolith.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1.md" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4_Cookbook.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_Monolith.py" afterPath="$PROJECT_DIR$/3_Monolith.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,27 +15,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="3_Monolith.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3_Monolith.py">
+      <file leaf-file-name="4_Cookbook.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4_Cookbook.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1120">
-              <caret line="56" column="6" lean-forward="false" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dummy.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dummy.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="5997" selection-end-column="0" />
+            <state relative-caret-position="80">
+              <caret line="4" column="39" lean-forward="false" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -52,6 +49,7 @@
         <option value="$PROJECT_DIR$/1_Old_Style.py" />
         <option value="$PROJECT_DIR$/dummy.txt" />
         <option value="$PROJECT_DIR$/3_Monolith.py" />
+        <option value="$PROJECT_DIR$/4_Cookbook.py" />
       </list>
     </option>
   </component>
@@ -231,7 +229,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1680" y="-160" width="1200" height="1897" extended-state="6" />
+    <frame x="1680" y="-160" width="1200" height="1897" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27633852" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -262,7 +260,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/word_freqs">
+    <entry file="file://$PROJECT_DIR$/4_Cookbook.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -270,11 +268,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/word_freqs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2017.2/python_stubs/1437855905/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="584">
           <caret line="4742" column="15" lean-forward="false" selection-start-line="4742" selection-start-column="8" selection-end-line="4742" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -282,14 +286,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="5997" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3_Monolith.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1120">
-          <caret line="56" column="6" lean-forward="false" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
+        <state relative-caret-position="220">
+          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Cookbook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="39" lean-forward="false" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
           <folding />
         </state>
       </provider>

@@ -2,6 +2,8 @@ import sys, string
 
 
 # 일체식(Monolith)
+# 명명된 추상화가 없다
+# 라이브러리를 전혀 또는 거의 사용하지 않는다
 
 word_freqs = []
 with open('/Users/hyun/Desktop/BackgroundInfo/Book/Programing_Pattern/stop_words.txt') as f:
@@ -54,4 +56,4 @@ for tf in word_freqs[0:25]:
     # 프로그램 본문을 방향 그래프(Directd graph)로 생각하는 빙식
     # CC = E - N + 2P
     # E = 변(edge)수, N = 노드수, P = 출구 노드수
-# 보통 시스템 규모에 관계 없이 좋지 않은 사례이다
+# 보통 시스템 규모에 관계 없이 좋지 않은 사례이
