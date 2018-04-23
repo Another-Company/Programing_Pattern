@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="017c25e9-3e60-4df4-a5da-5c52d92efa5e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5_Pipeline.py" afterPath="$PROJECT_DIR$/5_Pipeline.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Composite_Function/7_InfiniteMirror.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3_Monolith.py" afterPath="$PROJECT_DIR$/Basic_Format/3_Monolith.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/4_Cookbook.py" afterPath="$PROJECT_DIR$/Basic_Format/4_Cookbook.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5_Pipeline.py" afterPath="$PROJECT_DIR$/Basic_Format/5_Pipeline.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/6_CodeGolf.py" afterPath="$PROJECT_DIR$/Basic_Format/6_CodeGolf.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,7 +18,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="3_Monolith.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_Monolith.py">
+        <entry file="file://$PROJECT_DIR$/Basic_Format/3_Monolith.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
@@ -25,7 +28,7 @@
         </entry>
       </file>
       <file leaf-file-name="4_Cookbook.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4_Cookbook.py">
+        <entry file="file://$PROJECT_DIR$/Basic_Format/4_Cookbook.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="800">
               <caret line="40" column="88" lean-forward="false" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="88" />
@@ -34,11 +37,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="5_Pipeline.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5_Pipeline.py">
+      <file leaf-file-name="5_Pipeline.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Basic_Format/5_Pipeline.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="68" column="29" lean-forward="false" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="29" />
+            <state relative-caret-position="520">
+              <caret line="26" column="88" lean-forward="false" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="88" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="6_CodeGolf.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Basic_Format/6_CodeGolf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="640">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="7_InfiniteMirror.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Composite_Function/7_InfiniteMirror.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -72,6 +95,8 @@
         <option value="$PROJECT_DIR$/4_Cookbook.py" />
         <option value="$PROJECT_DIR$/5_Pipline.py" />
         <option value="$PROJECT_DIR$/5_Pipeline.py" />
+        <option value="$PROJECT_DIR$/6_CodeGolf.py" />
+        <option value="$PROJECT_DIR$/Composite_Function/7_InfiniteMirror.py" />
       </list>
     </option>
   </component>
@@ -106,6 +131,11 @@
               <item name="Programing_Pattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="Programing_Pattern" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Programing_Pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programing_Pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="Basic_Format" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -119,6 +149,12 @@
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Basic_Format" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -145,7 +181,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Programing_Pattern" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_Monolith.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic_Format/3_Monolith.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +198,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Programing_Pattern" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Cookbook.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic_Format/4_Cookbook.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,7 +215,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Programing_Pattern" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Pipeline.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic_Format/5_Pipeline.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -326,7 +362,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/3_Monolith.py">
+    <entry file="file://$PROJECT_DIR$/Basic_Format/3_Monolith.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
@@ -334,7 +370,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_Cookbook.py">
+    <entry file="file://$PROJECT_DIR$/Basic_Format/4_Cookbook.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="800">
           <caret line="40" column="88" lean-forward="false" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="88" />
@@ -342,7 +378,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5_Pipeline.py">
+    <entry file="file://$PROJECT_DIR$/Basic_Format/5_Pipeline.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1820">
           <caret line="91" column="0" lean-forward="true" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
@@ -350,7 +386,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_Monolith.py">
+    <entry file="file://$PROJECT_DIR$/Basic_Format/3_Monolith.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
@@ -358,7 +394,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_Cookbook.py">
+    <entry file="file://$PROJECT_DIR$/Basic_Format/4_Cookbook.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="800">
           <caret line="40" column="88" lean-forward="false" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="88" />
@@ -366,7 +402,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5_Pipeline.py">
+    <entry file="file://$PROJECT_DIR$/Basic_Format/5_Pipeline.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
           <caret line="39" column="21" lean-forward="true" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
@@ -374,7 +410,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_Cookbook.py">
+    <entry file="file://$PROJECT_DIR$/Basic_Format/4_Cookbook.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -382,7 +418,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_Monolith.py">
+    <entry file="file://$PROJECT_DIR$/Basic_Format/3_Monolith.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="760">
           <caret line="38" column="36" lean-forward="true" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
@@ -390,7 +426,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_Cookbook.py">
+    <entry file="file://$PROJECT_DIR$/Basic_Format/4_Cookbook.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -413,7 +449,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/word_freqs" />
-    <entry file="file://$PROJECT_DIR$/3_Monolith.py">
+    <entry file="file://$PROJECT_DIR$/Basic_Format/3_Monolith.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
@@ -428,7 +464,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_Cookbook.py">
+    <entry file="file://$PROJECT_DIR$/Basic_Format/4_Cookbook.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="800">
           <caret line="40" column="88" lean-forward="false" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="88" />
@@ -436,10 +472,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5_Pipeline.py">
+    <entry file="file://$PROJECT_DIR$/Basic_Format/5_Pipeline.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="68" column="29" lean-forward="false" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="29" />
+        <state relative-caret-position="520">
+          <caret line="26" column="88" lean-forward="false" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic_Format/6_CodeGolf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Composite_Function/7_InfiniteMirror.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
